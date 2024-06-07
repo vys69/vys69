@@ -1,1 +1,1 @@
-making cool shopify sites because nobody else is
+making the gap between art and ecommerce disappear, one headache at a time
