@@ -1,1 +1,1 @@
-making the gap between art and ecommerce disappear, one headache at a time
+turning boring shopify sites into not-so-boring shopify sites
