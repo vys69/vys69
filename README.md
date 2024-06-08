@@ -1,6 +1,6 @@
 turning boring shopify sites into not-so-boring shopify sites
 ```math
-\ce{$\unicode[goombafont; background: linear-gradient(to right, #ffcc00, #ff6600); height: 100vh; width: 100%; position: fixed; top: 0; left: 0;]{\text{}}$}
+\ce{$\unicode[goombafont; color: red; animation: blink 1s linear infinite;]{\text{Blinking Text}}$}
 ```
 
 ```math
