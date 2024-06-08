@@ -2,13 +2,6 @@
 
 <h1 align="center">
   <span>༺</span>
-  <a href="https://vizzy.cubiq.dev" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/5n98woC.png">
-      <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/NovXoL9.png">
-      <img alt="Vizzy" src="https://i.imgur.com/5n98woC.png">
-    </picture>
-  </a>
   <a href="https://arc.net/" target="_blank">
   <picture>
   	<source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/yfh19VV.png">
@@ -16,36 +9,15 @@
     <img alt="Arc Browser" src="https://cdn.discordapp.com/emojis/1016905341218328596.png?quality=lossless&size=48">
   </picture>
   </a>
-  <a href="https://svelte.dev/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/ov46xih.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/YSsNujB.png">
-    <img alt="Svelte" src="https://i.imgur.com/ov46xih.png">
-  </picture>
-  </a>
-  <a href="https://www.youtube.com/cloudkid" target="_blank">
+  <a href="https://www.youtube.com/s_shake" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/gZKi6iH.png">
     <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/foCaUio.png">
     <img alt="Cloudkid" src="https://i.imgur.com/gZKi6iH.png">
   </picture>
   </a>
-  <a href="https://fedoraproject.org/" target="_blank">
-    <img alt="Fedora-slay" src="https://i.imgur.com/e6a3t4p.png">
-  </a>
-  <a href="https://spline.design/" target="_blank">
-    <img alt="Spline" src="https://i.imgur.com/0VASlKm.png">
-  </a>
   <span>༻</span>
 </h1>
-  
-<!--
-<details><summary>my popular gists:</summary>
-
-# <p  align="center"> [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=71f1152be6d8a5c8b6038db39a915d74)](https://gist.github.com/TheCubiq/71f1152be6d8a5c8b6038db39a915d74) </p><p  align="center">[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=b647e03b5d411a5df1d447dbe80ac298)](https://gist.github.com/TheCubiq/b647e03b5d411a5df1d447dbe80ac298) </p>
-
-</details>
--->
   
 
 # <p  align="center"> ![visitor counter](https://count.getloli.com/get/@TheCubiq) ...visits</p>
