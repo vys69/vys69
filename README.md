@@ -5,5 +5,6 @@
 ```
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color: red; pointer-events: none; z-index: 5; position: absolute; left: 0; top: -278px; background-position: 0 0; translate: -50% -50%; opacity: 1; height: 300px; width: 2700px; background: #090b0e;]{x0000}$}
+\ce{$&#x5C;unicode[z-index: 4;position: absolute;left: 0;translate: -116% -43%;opacity: 1;height: 300px;border-radius: 155px;width: 300px;background: #090b0e;]{x0000}$}
 ```
+
