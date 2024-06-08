@@ -10,7 +10,7 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background-image: url('https://github.com/vys69/vys69/blob/main/ezgif-2-45a20cad34.gif');
+background-image: url('https://github.com/vys69/vys69/blob/main/ezgif-2-45a20cad34.gif?raw=true');
 "]{}
 
 \mmlToken{ms}[fontfamily="
