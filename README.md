@@ -10,7 +10,7 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg');
+background-image: url('https://github.com/vys69/vys69/blob/main/ezgif-2-45a20cad34.gif');
 "]{}
 
 \mmlToken{ms}[fontfamily="
