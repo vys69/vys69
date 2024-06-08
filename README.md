@@ -5,6 +5,6 @@
 ```
 
 ```math
-\ce{$&#x5C;unicode[goombafont; z-index: 4;position: absolute; border: 2px solid #31363d; left: 0;translate: -116% -43%;opacity: 1;height: 300px;border-radius: 155px;width: 300px; background-image: url('https://github.com/vys69/vys69/blob/main/comfreakinpressed.gif?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; z-index: 4;position: absolute; border: 2px solid #31363d; left: 0;translate: -116% -43%;opacity: 1;height: 300px;border-radius: 155px;width: 300px; background-image: url('https://github.com/vys69/vys69/blob/main/comfreakinpressed.gif?raw=true'); background-size: contain; background-color: black;]{x0000}$}
 ```
 
