@@ -1,5 +1,3 @@
-converting shopify sites from eyesores to eyecandy
-
 ## the end of an era 
 
 ```math
